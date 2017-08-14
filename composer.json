@@ -1,0 +1,11 @@
+{
+    "name": "gabrielebassi/exportcsv",
+    "authors": [
+        {
+            "name": "gabrielebassi",
+            "email": "gabriele.bassi@yahoo.it"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
