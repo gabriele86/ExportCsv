@@ -1,11 +1,13 @@
 {
     "name": "gabrielebassi/exportcsv",
-    "authors": [
-        {
-            "name": "gabrielebassi",
-            "email": "gabriele.bassi@yahoo.it"
-        }
-    ],
+    "type": "library",
+    "homepage": "http://vfs.bovigo.org/",
+    "description": "Laravel package to generate csv file",
+    "license": "MIT",
+    "authors": [{
+        "name": "gabrielebassi",
+        "email": "gabriele.bassi@yahoo.it"
+    }],
     "minimum-stability": "dev",
     "require": {}
 }

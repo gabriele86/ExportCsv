@@ -35,6 +35,7 @@ Config file contains default values for delimiter, enclosure and escape paramete
 
 ## Example
 
+<code>
 <?php
 
 namespace App\Http\Controllers;
@@ -75,3 +76,4 @@ class CsvController extends BaseController
         
     }
 }
+</code>
