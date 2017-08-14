@@ -1,12 +1,12 @@
 # Export to CSV
 
-Laravel 5 package to CSV files.
+Laravel 5 package to generate CSV files.
 
 ## Instalation
 
 First run composer command
 
-<code>composer require wilgucki/csv</code>
+<code>composer require gabrielebassi/exportcsv</code>
 
 Next add service provider to <code>config/app.php</code> file
 
